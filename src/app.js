@@ -9,7 +9,7 @@ document.addEventListener("alpine:init", () => {
         img: "4.png",
         price: 50000,
       },
-      { id: 4, name: "Logo", img: "1.jpeg", price: 100000 },
+      { id: 4, name: "Logo", img: "5.jpg", price: 100000 },
     ],
   }));
 
